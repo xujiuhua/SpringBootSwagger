@@ -1,11 +1,9 @@
 SpringBoot Gradle Springfox
 
-## 用途
+## 介绍
 
-通过Spring项目自动生成JSON-API文档
+这是一个demo工程，通过Spring项目自动生成JSON-API文档
 
-REST API 设计
+## 文档
 
-## Document
-
-[]()
+[http://johuer.coding.me/2016/10/29/springboot-springfox/](http://johuer.coding.me/2016/10/29/springboot-springfox/)
